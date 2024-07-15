@@ -1,0 +1,121 @@
+body {
+
+    width: 700px;
+    margin:10px auto;
+    font-family: sans-serif;
+    height: 1000px;
+  
+
+    
+}
+
+article img {
+    float:left;
+    margin:right:20px;
+
+}
+
+article h2{
+    line-height: 49px;
+    margin:0;
+    letter-spacing: -1px;
+   
+
+font-size: 40px;
+}
+
+a{
+    color:#276056;
+}
+
+.upperwala a , .date a  {
+    font-style: italic;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.upperwala li:after{
+    content:'/';
+    color:#999
+  
+    }
+
+.upperwala a:hover{
+        color:red;
+    }
+
+.upperwala li {
+    display:inline
+    
+}
+
+.upperwala img{
+    width: 52px;
+    height: 27px;
+    
+}
+
+
+.lol{ 
+    float:right;
+
+    width:500px;
+}
+
+
+.date  { 
+    background-color: #f3f3f3;
+    color:#999;
+    padding:2px;
+    font-size: 14px;
+    float:left;
+    font-size: 14px;
+    font-family: sans-serif;
+    
+
+}
+
+.date a
+
+{
+
+    color:#999;
+    padding:2px;
+    text-decoration: none;
+}
+
+
+.date a:hover
+{
+    color:black
+}
+
+.body{
+    clear:both;
+    color:#575757;
+    line-height: 21px;
+}
+
+.next {
+    
+    float:right;
+    font-size: 15px;
+
+}
+
+.next:after{
+
+    content:')'
+}
+
+.next:before{
+
+    content:'('
+}
+
+a:hover{
+    color:black;
+}
+
+
